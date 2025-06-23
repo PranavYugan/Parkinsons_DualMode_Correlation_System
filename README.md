@@ -1,1 +1,1 @@
-# Parkinsons_DualMode_Correlation_System
+A dual-mode system integrating speech and motion analysis for Parkinson’s patients using ML 
